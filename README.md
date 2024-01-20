@@ -4,7 +4,8 @@
 
 This project implements object detection and tracking using YOLOv8 with pre-trained weights on the COCO dataset. The system also features a people counter that utilizes a sorting algorithm for tracking. The graphical interface is built with Streamlit, and the project supports detection on videos, images, and real-time scenarios.For each 
 detected object we draw bound boxes arround objects with confidence level above 0.6 (60%).
--**Why Sorting Algorithm for Object Tracking?**
+
+## Why Sorting Algorithm for Object Tracking 
 The choice between using a sorting algorithm for object tracking and a simple incrementing method hinges on the complexity of the tracking task. Sorting algorithms, such as SORT, are advantageous in scenarios with occlusions, dynamic movements, and complex object interactions. They excel at associating and matching object IDs across frames, providing accurate tracking even in challenging conditions. On the other hand, a simple incrementing method is more straightforward and computationally efficient, making it suitable for less complex tracking tasks or controlled environments where objects move predictably and occlusions are minimal. 
 
 ## Project Structure
