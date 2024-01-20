@@ -40,4 +40,5 @@ Follow these steps to set up the project:
 
 
 
+![IMG-20240110-WA0014](https://raw.githubusercontent.com/Youssef-balh/Object-Detection-and-People-Counter/main/assets/113738047/48b366f0-237b-410a-bcf4-eca4736b6080) | ![IMG-20240110-WA0020](https://raw.githubusercontent.com/Youssef-balh/Object-Detection-and-People-Counter/main/assets/113738047/a3c54f86-4e76-41cf-b313-126498b4afb5)
 
