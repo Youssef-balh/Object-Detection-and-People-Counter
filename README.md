@@ -22,13 +22,13 @@ Follow these steps to set up the project:
    git clone https://github.com/yourusername/object-detection-tracking.git
    cd object-detection-tracking
 2. **Install Dependencies:**
-   -streamlit
-   -numpy
-   -Pillow (PIL)
-   -pandas
-   -ultralytics (YOLO)
-   -opencv (cv2)
-   -cvzone
-   -math
-   -torchvision.transforms.functional 
+- **streamlit**
+- **numpy**
+- **Pillow (PIL)**
+- **pandas**
+- **ultralytics (YOLO)**
+- **opencv (cv2)**
+- **cvzone**
+- **math**
+- **torchvision.transforms.functional** 
    
