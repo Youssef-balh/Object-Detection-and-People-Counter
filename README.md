@@ -35,6 +35,10 @@ Follow these steps to set up the project:
    - **cvzone**
    - **math**
 3. **Run**
-![Image 1](https://raw.githubusercontent.com/Youssef-balh/Object-Detection-and-People-Counter/main/assets/113738047/7268954e-7eb0-40b9-a603-eaebb74b5ad3) | ![Image 2](https://raw.githubusercontent.com/Youssef-balh/Object-Detection-and-People-Counter/main/assets/113738047/7420c7b6-2460-4c0b-b46b-68d2e6ab7174)
+![Image 1](https://raw.githubusercontent.com/Youssef-balh/Object-Detection-and-People-Counter/main/assets/113738047/7268954e-7eb0-40b9-a603-eaebb74b5ad3) | ![Image 2](https://github.com/Youssef-balh/Object-Detection-and-People-Counter/assets/113738047/a3c54f86-4e76-41cf-b313-126498b4afb5)
+
+
+
+
 
 
