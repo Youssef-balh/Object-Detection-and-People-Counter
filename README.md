@@ -34,4 +34,7 @@ Follow these steps to set up the project:
    - **opencv (cv2)**
    - **cvzone**
    - **math**
-   
+3. **Run**
+<img width="960" alt="Img" src="https://github.com/Youssef-balh/Object-Detection-and-People-Counter/assets/113738047/7268954e-7eb0-40b9-a603-eaebb74b5ad3">
+<img width="836" alt="image" src="https://github.com/Youssef-balh/Object-Detection-and-People-Counter/assets/113738047/7420c7b6-2460-4c0b-b46b-68d2e6ab7174">
+
