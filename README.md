@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project implements object detection and tracking using YOLOv8 with pre-trained weights on the COCO dataset. The system also features a people counter that utilizes a sorting algorithm for tracking. The graphical interface is built with Streamlit, and the project supports detection on videos, images, and real-time scenarios.
+This project implements object detection and tracking using YOLOv8 with pre-trained weights on the COCO dataset. The system also features a people counter that utilizes a sorting algorithm for tracking. The graphical interface is built with Streamlit, and the project supports detection on videos, images, and real-time scenarios.For each 
+detected object we draw bound boxes arround objects with confidence level above 0.6 (60%).
 
 ## Project Structure
 
